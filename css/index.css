@@ -13,7 +13,7 @@
 
   .main-header,
   .main-footer {
-    background-color: #cb4c28;
+    background-color: #88b0f8;
     height: 50px;
   }
 
@@ -47,7 +47,7 @@
 
   .bio-container {
     height: 140px;
-    background-color: #99c39b;
+    background-color: #c3c5cc;
   }
 
   .avatar {
@@ -74,7 +74,7 @@
     float: left;
     width: 180px;
     height: 100%;
-    background-color: #f7f7f7;
+    background-color: #c3c5cc;
   }
 
   .left-sidebar ul {
@@ -104,7 +104,7 @@
   }
 
   .gallery {
-    background: #f7f7f7;
+    background: #88b0f8;
     float: left;
     height: calc(100% - 30px);
     padding: 15px;
